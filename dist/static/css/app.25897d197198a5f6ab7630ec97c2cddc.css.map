@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/NewsList.vue"],"names":[],"mappings":"AACA,MACE,kBAAoB,CAEtB,OACE,WACA,WAAa","file":"static/css/app.25897d197198a5f6ab7630ec97c2cddc.css","sourcesContent":["\n.card {\r\n  margin-bottom: 10px;\n}\n.image {\r\n  width: 100%;\r\n  height: 100%;\n}\r\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/NewsList.vue"],"sourceRoot":""}
