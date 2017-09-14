@@ -1,5 +1,5 @@
 <template>
-  <div class="container" id="app">
+  <div class="container">
     <SourceSelection v-on:sourceChanged="sourceChanged"></SourceSelection>
     <NewsList v-bind:source="source"></NewsList>
   </div>
