@@ -44,11 +44,13 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .card {
   margin-bottom: 10px;
 }
-
+.image-container {
+  border-left: 3px solid #0275d8;
+}
 .image {
   width: 100%;
   height: 100%;
